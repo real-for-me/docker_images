@@ -3,3 +3,4 @@ alpinelinux/alpine-gitlab-ci
 rustdesk/rustdesk-server
 provectuslabs/kafka-ui
 apache/doris:build-env-for-2.0.3
+openjdk:8u342-jdk
